@@ -1,4 +1,4 @@
-# Backend Developer in Japan👋
+# Backend And Crypto Developer in Japan👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icer7&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -8,7 +8,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,ruby,python,go,php,js,typescript,react,vue,next,nuxt,nest,sqlite,mysql,docker,laravel,rails,django,firebase,jquery,aws,gcp,azure" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,ruby,python,go,php,js,typescript,react,vue,next,nuxt,nest,sqlite,mysql,docker,laravel,rails,django,firebase,jquery,aws,gcp,azure,linux" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
